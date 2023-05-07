@@ -13,10 +13,10 @@ from enum import Enum
 
 
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-from inky.inky_uc8159 import Inky, BLACK, WHITE, GREEN, RED, YELLOW, ORANGE, BLUE, DESATURATED_PALETTE as color_palette
+from inky.inky_ac073tc1a import Inky, BLACK, WHITE, GREEN, RED, YELLOW, ORANGE, BLUE, DESATURATED_PALETTE as color_palette
 
 saturation = 0.5
-canvasSize = (600, 448)
+canvasSize = (800, 480)
 
 tmpfs_path = "/dev/shm/"
 
