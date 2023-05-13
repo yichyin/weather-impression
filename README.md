@@ -1,8 +1,10 @@
 ![lib directory contents](/sample.jpg)
 
 # weather-impression
-Weather station for PIMORONI Inky Impression(5.7")
-https://shop.pimoroni.com/products/inky-impression-5-7
+This is a fork of https://github.com/kotamorishi/weather-impression with adjustments for the new size and some cleanups.
+
+Weather station for PIMORONI Inky Impression(7.3")
+https://shop.pimoroni.com/products/inky-impression-7-3
 
 # How to install
 This app can be installed on a fresh installation of Raspberry Pi OS (Buster). While it may work with other versions of Raspberry Pi OS, I have not tested it on those versions.
